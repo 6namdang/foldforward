@@ -326,3 +326,5 @@ npm run lint     # eslint
 ---
 
 Built for Hack-Nation 2026 · α7 nAChR research.
+
+Contributors: coco444444
