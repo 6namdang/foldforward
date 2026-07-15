@@ -327,4 +327,7 @@ npm run lint     # eslint
 
 Built for Hack-Nation 2026 · α7 nAChR research.
 
-Contributors: coco444444
+Contributors: coco444444 - PostDoc MIT Sloan
+aleena iraqui - biologist at broad
+jakob koch - mechanical engineer at eth zurich
+hoang - random homeless guy
