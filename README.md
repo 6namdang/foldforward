@@ -6,6 +6,19 @@ XtremeGene is an opinionated, end-to-end research-planning tool focused on α7 n
 
 ---
 
+## Meet the team
+constanze - PostDoc MIT Sloan
+
+
+aleena iraqui - biologist at broad
+
+
+jakob koch - mechanical engineer at eth zurich
+
+
+hoang - random guy
+
+
 ## Table of contents
 
 1. [Demo flow](#demo-flow)
@@ -327,7 +340,3 @@ npm run lint     # eslint
 
 Built for Hack-Nation 2026 · α7 nAChR research.
 
-Contributors: coco444444 - PostDoc MIT Sloan
-aleena iraqui - biologist at broad
-jakob koch - mechanical engineer at eth zurich
-hoang - random homeless guy
