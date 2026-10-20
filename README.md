@@ -16,7 +16,7 @@ aleena iraqui - biologist at broad
 jakob koch - mechanical engineer at eth zurich
 
 
-hoang - random guy
+hoang - compbio at mit, hms/spaulding
 
 
 ## Table of contents
